@@ -1,3 +1,6 @@
 # Curiosity
 Curiosity is key for the discovery of new patterns and knowledge
 Curiosity is the human and animal urge to explore and discover new environments or to seek new knowledge \cite{Xu2020,Vasconcelo2015}. This intrinsic need to know things is usually not just goal oriented as many experiments have demonstrated,  the joy and excitement of exploration appears to be motivation enough without the expectation of a reward.  \cite{Modirshamechi2023,Modirshamechi2023b}. Furthermore we make the distinction between novelty and surprise, they are two related but complementary concepts that each play a role in a curiosity driven process \cite{Xu2020,Wu2015,Chadi2023}.  In humans and animals curiosity may generate excitement at the prospect of discovering new knowledge or experiences. These emotions act as a driver for exploration perhaps taking individuals down paths they never anticipated or previously throught uninteresting.  Although there is evidence that humans and animals seem to use both curiosity and reward policies combined with novelty as a further spur to motivation. Several cognitive science studies have attempted to experimentally  induce curiosity and monitoring how a que or question can carry over and initiate interest in another topic \cite{Gross202
+
+### References
+>  
